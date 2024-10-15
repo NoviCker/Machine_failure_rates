@@ -12,23 +12,23 @@ The following are the machine types:
 
 **4. Band Machine** 
 
-**4. Grinding Machine**	
+**5. Grinding Machine**	
 
-**5. CNC Machine**	
+**6. CNC Machine**	
 
-**6. Welding Machine**	
+**7. Welding Machine**	
 
-**7. Press Machine**	
+**8. Press Machine**	
 
-**8. Injection Molding Machine**	
+**9. Injection Molding Machine**	
 
-**9. EDM Machine**	
+**10. EDM Machine**	
 
-**10. Table Saw**	
+**11. Table Saw**	
 
 On 10/15/2024 the following machines are added:
 
-**11. Router Machine**	
+**12. Router Machine**	
 
-**12. Finishing Machine**
+**13. Finishing Machine**
 
