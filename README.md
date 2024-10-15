@@ -1,6 +1,6 @@
 #### Info
 
-This dataset is gathered from multiple shop mascines. I will try to update this dataset constantly. Please tune-in...
+This dataset is gathered from multiple machines in a single shop during a two year survey. I will try to update this dataset constantly. Enjoy!
 
 Machine types:
 
