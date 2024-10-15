@@ -1,5 +1,7 @@
 #### Info
-This dataset is gathered from multiply shop mashines and will constantly updated.
+
+This dataset is gathered from multiple shop mashines. I will try to update this dataset constantly. Please tune-in...
+
 The following are the machine types:
 **1. Lathe (Turning)**
 
