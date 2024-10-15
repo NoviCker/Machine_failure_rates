@@ -2,7 +2,7 @@
 
 This dataset is gathered from multiple shop mashines. I will try to update this dataset constantly. Please tune-in...
 
-The following are the machine types:
+Machine types:
 
 **1. Lathe (Turning)**
 
@@ -31,4 +31,6 @@ On 10/15/2024 the following machines are added:
 **12. Router Machine**	
 
 **13. Finishing Machine**
+
+***Data is collected in days intervals. The type of failure varies based on each machine due to nature of structure, use-frequency and etc.***
 
