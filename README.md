@@ -25,6 +25,8 @@ The following are the machine types:
 
 **10. Table Saw**	
 
+On 10/15/2024 the following machines are added:
+
 **11. Router Machine**	
 
 **12. Finishing Machine**
